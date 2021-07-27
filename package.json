@@ -8,7 +8,7 @@
         "start": "nodemon ./bot.js"
     },
     "engines": {
-        "node": "12.19.0"
+        "node": "16.5.0"
     },
     "keywords": [],
     "author": "",
@@ -19,7 +19,8 @@
         "discord.js": "^12.4.0",
         "dotenv": "^10.0.0",
         "mathjs": "^7.5.1",
-        "node": "^16.5.0"
+        "node": "^16.5.0",
+        "opusscript": "0.0.8"
     },
     "devDependencies": {
         "nodemon": "^2.0.6"
