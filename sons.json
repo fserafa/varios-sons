@@ -1,0 +1,137 @@
+[
+    [
+        {
+            "descricao": "Ovinho do Mito",
+            "valor": "ovinhoDoMito",
+            "arquivo": "OVINHO DO MITPO.mp3"
+        },
+        {
+            "descricao": "Breaking News",
+            "valor": "breakingNews",
+            "arquivo": "breakinnews.mp3"
+        },
+        {
+            "descricao": "Touro Chifrudo",
+            "valor": "touroChifrudo",
+            "arquivo": "TOURO CHIFRUDO.mp3"
+        },
+        {
+            "descricao": "Pastilha",
+            "valor": "pastilha",
+            "arquivo": "TEMER POSSUIDO.mp3"
+        },
+        {
+            "descricao": "Mito Clock",
+            "valor": "mitoClock",
+            "arquivo": "MITO CLOCK.mp3"
+        }
+    ],
+    [
+        {
+            "descricao": "Ah vá a merda",
+            "valor": "vaAMerda",
+            "arquivo": "ah va a merda.mp3"
+        },
+        {
+            "descricao": "Alô",
+            "valor": "alo",
+            "arquivo": "alo_5.mp3"
+        },
+        {
+            "descricao": "Tava fora do Brasil irmão",
+            "valor": "tavaForaDoBrasilIrmao",
+            "arquivo": "TAVA FORA DO BRASIL IRMÃO.mpeg"
+        },
+        {
+            "descricao": "Hora do Show Porra",
+            "valor": "horaDoShow",
+            "arquivo": "hora-do-shooow-porra.mp3"
+        },
+        {
+            "descricao": "Zé Gotinha",
+            "valor": "zeGotinha",
+            "arquivo": "lula-ze-gotinha.mp3"
+        }
+    ],
+    [
+        {
+            "descricao": "Polícia Maluco",
+            "valor": "policiaMaluco",
+            "arquivo": "POLICIA MALUCO.mp3"
+        },
+        {
+            "descricao": "Esse cara ainda tá ai",
+            "valor": "esseCaraAindaTaAi",
+            "arquivo": "TORCEDOR DO AMERICA ESSE CARA AINDA TA AI.mp3"
+        },
+        {
+            "descricao": "Oh filho da puta",
+            "valor": "ohFilhaDaPuta",
+            "arquivo": "TORCEDOR DO AMERICA O FILHO DA PUTA.mp3"
+        },
+        {
+            "descricao": "Outra Vez Caralho",
+            "valor": "outraVezCaralho",
+            "arquivo": "OUTRA VEZ CARALHO.mp3"
+        },
+        {
+            "descricao": "Porque Será",
+            "valor": "porqueSera",
+            "arquivo": "PORQUE SERÁ.mp3"
+        }
+    ],
+    [
+        {
+            "descricao": "Risada do bola",
+            "valor": "risadaDoBola",
+            "arquivo": "risada-do-bola-marcos-chiesa-mp3cut.mp3"
+        },
+        {
+            "descricao": "Xaropinho Rapaz",
+            "valor": "xaropinhoRapaz",
+            "arquivo": "vinheta-xaropinho-rapaz_dx3f4Be.mp3"
+        },
+        {
+            "descricao": "Pare",
+            "valor": "pare",
+            "arquivo": "pare.mp3"
+        },
+        {
+            "descricao": "Ratinho",
+            "valor": "ratinho",
+            "arquivo": "ratinho_1.mp3"
+        },
+        {
+            "descricao": "Iha",
+            "valor": "iha",
+            "arquivo": "iha.mp3"
+        }
+    ],
+    [
+        {
+            "descricao": "Não dá mais",
+            "valor": "naoDaMais",
+            "arquivo": "BOULOS NÃO DA MAIS.mp3"
+        },
+        {
+            "descricao": "Risada Carlos Alberto",
+            "valor": "risadaCarlosAlberto",
+            "arquivo": "risada_carlos_alberto_mp3cut.mp3"
+        },
+        {
+            "descricao": "Noossa",
+            "valor": "noossa",
+            "arquivo": "noossa.mp3"
+        },
+        {
+            "descricao": "Para com essa porra ai ",
+            "valor": "paraComEssaPorraAi",
+            "arquivo": "PARA COM ESSA PORRA AI MEU IRMÃO.mp3"
+        },
+        {
+            "descricao": "Faustão Errou",
+            "valor": "faustaoErrou",
+            "arquivo": "faustao-errou.mp3"
+        }
+    ]
+]
